@@ -1,4 +1,4 @@
-C Sorting Algorithms
+#C Sorting Algorithms
 This repository contains a collection of sorting algorithms implemented in C. The purpose of this repository is to provide a practical resource for learning the C programming language while exploring fundamental sorting algorithms commonly used in computer science.
 
 Algorithms Included
